@@ -1,0 +1,8 @@
+canvas{
+    box-shadow: blue, 23, 45, 45, 45;
+    background-color: rgb(100, 204, 211);
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+    border-radius: 40px;
+}
